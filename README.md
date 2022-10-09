@@ -21,3 +21,6 @@ Computer vision projects:
   
   3.4. Automatic panorama stitching from multiple images
 
+4. transfer_learning_finding_malaria_cells.ipynb
+
+  4.1. Applying transfer learning to find parasitized malaria cells 
