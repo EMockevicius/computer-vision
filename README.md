@@ -17,7 +17,7 @@ Computer vision projects:
   
   3.2. Image geometric transformation
   
-  3.3. manual panorama stitching from 2 images
+  3.3. Manual panorama stitching from 2 images
   
-  3.4. 4. Automatic panorama stitching from multiple images
+  3.4. Automatic panorama stitching from multiple images
 
