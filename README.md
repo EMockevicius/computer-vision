@@ -7,3 +7,7 @@ Computer vision projects:
   
   1.2. Edge detection by applying Sobel filters
   
+2. blob_detection_final.ipynb
+  
+  2.1. Blob detection using Laplacian and Gaussian filters
+  
